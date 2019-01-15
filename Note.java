@@ -1,6 +1,4 @@
 //   Melody: 
-//
-// Instructor-provided code.
 // A Note object represents a musical note in scientific music notation. 
 // For example, middle C is represented as C4.
 
